@@ -9,3 +9,19 @@ Integration testing is the phase in software testing in which individual softwar
 Integration testing is conducted by testers.
 
 It can be either BlackBox or WhiteBox testing.
+
+System testing 
+What is system Testing?
+System testing is the execution of the software in its final configuration, including integration with other software and hardware systems
+
+System Testing is conducted by developers
+It is type of whitebox testing
+
+Acceptance testing
+What is acceptance Testing?
+The acceptance testing plan is created during the design phase and the actual testing is done after the system is fully developed and tested
+
+Acceptance Testing is conducted by Beta Tester
+It is type of blackbox
+
+Updated by Aaron Chan
